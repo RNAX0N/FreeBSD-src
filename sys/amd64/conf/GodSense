@@ -1,4 +1,4 @@
-include pfSense-DEBUG
+include GodSense-DEBUG
 include "../../conf/std.nodebug"
 
 ident   pfSense
